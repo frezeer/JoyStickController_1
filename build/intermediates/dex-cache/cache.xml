@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\sergio morales\AndroidStudioProjects\JoyStickController\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\sergio morales\AndroidStudioProjects\JoyStickController\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e679a28eb869712838e2b73765824ae21d77e532\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sergio morales\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\sergio morales\AndroidStudioProjects\JoyStickController\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_7d00c7d42f9af9fcd745644dfbbd5f17b43e8cc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sergio morales\AndroidStudioProjects\JoyStickController\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba668b7af803c81b0077c3caa2d69c1f06431a0b">
+        <dex dex="C:\Users\sergio morales\AndroidStudioProjects\JoyStickController\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f5a79af236eefc88311421807f08987c7b544db6\classes.dex" />
+    </item>
+
+</items>

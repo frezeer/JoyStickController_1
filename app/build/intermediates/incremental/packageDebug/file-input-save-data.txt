@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Sun Mar 05 09:32:20 CST 2017
+2.base=C\:\\Users\\sergio morales\\AndroidStudioProjects\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\sergio morales\\AndroidStudioProjects\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_action_search.png
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\sergio morales\\AndroidStudioProjects\\JoyStickController\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f5a79af236eefc88311421807f08987c7b544db6
+6.file=C\:\\Users\\sergio morales\\AndroidStudioProjects\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=C\:\\Users\\sergio morales\\AndroidStudioProjects\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-land\\main.xml
+4.base=C\:\\Users\\sergio morales\\AndroidStudioProjects\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\sergio morales\\AndroidStudioProjects\\JoyStickController\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e679a28eb869712838e2b73765824ae21d77e532\\classes.dex
+7.set=DEX
+count=11
+0.file=C\:\\Users\\sergio morales\\AndroidStudioProjects\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=C\:\\Users\\sergio morales\\AndroidStudioProjects\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\sergio morales\\AndroidStudioProjects\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\image_button.png
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\sergio morales\\AndroidStudioProjects\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\sergio morales\\AndroidStudioProjects\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-port\\main.xml
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\sergio morales\\AndroidStudioProjects\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+10.base=C\:\\Users\\sergio morales\\AndroidStudioProjects\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\sergio morales\\AndroidStudioProjects\\JoyStickController\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e679a28eb869712838e2b73765824ae21d77e532
+2.file=C\:\\Users\\sergio morales\\AndroidStudioProjects\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\sergio morales\\AndroidStudioProjects\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\sergio morales\\AndroidStudioProjects\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\sergio morales\\AndroidStudioProjects\\JoyStickController\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f5a79af236eefc88311421807f08987c7b544db6\\classes.dex
+3.set=DEX
+1.base=C\:\\Users\\sergio morales\\AndroidStudioProjects\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Users\\sergio morales\\AndroidStudioProjects\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\sergio morales\\AndroidStudioProjects\\JoyStickController\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\image_button_bg.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

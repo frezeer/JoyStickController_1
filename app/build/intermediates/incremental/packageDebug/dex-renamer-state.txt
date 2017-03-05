@@ -1,0 +1,7 @@
+#Sun Mar 05 09:32:20 CST 2017
+base.0=C\:\\Users\\sergio morales\\AndroidStudioProjects\\JoyStickController\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e679a28eb869712838e2b73765824ae21d77e532
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\sergio morales\\AndroidStudioProjects\\JoyStickController\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f5a79af236eefc88311421807f08987c7b544db6\\classes.dex
+base.1=C\:\\Users\\sergio morales\\AndroidStudioProjects\\JoyStickController\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f5a79af236eefc88311421807f08987c7b544db6
+file.0=C\:\\Users\\sergio morales\\AndroidStudioProjects\\JoyStickController\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e679a28eb869712838e2b73765824ae21d77e532\\classes.dex
